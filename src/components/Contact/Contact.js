@@ -45,9 +45,9 @@ export default function ContactForm() {
         id="contact-us"
         style={{
           margin: "1rem",
-          fontSize: "1.6rem",
+          fontSize: "30px",
           textTransform: "uppercase",
-          fontFamily: '"Bungee", cursive'
+          fontFamily: '"times", cursive'
         }}
       >
         <Element name="contact-me">Contact Me</Element>

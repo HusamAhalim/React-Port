@@ -5,7 +5,7 @@ import ProjectCardList from "./components/ProjectCardList/ProjectCardList";
 import Experience from "./components/Experience/Experience";
 import Skill from "./components/Skill/Skill";
 import ContactForm from "./components/Contact/Contact";
-import "./App.css";
+// import "./App.css";
 import Section from "./components/Section/Section.component";
 // import ContactInfo from "./components/ContactInfo";
 class App extends Component {
