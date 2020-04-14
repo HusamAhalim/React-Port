@@ -1,6 +1,10 @@
 import React from "react";
 import portfolio from "../../utils/portfolio.png";
 import { Typography } from "@material-ui/core";
+// import { IconButton }  from "@material-ui/core";
+// import {  Info, Launch, GitHub } from "@material-ui/icons";
+// import InfoModal from "../InfoModal/InfoModal";
+
 import "./AboutMe.scss";
 
 const AboutMe = () => {
@@ -16,13 +20,13 @@ const AboutMe = () => {
           textTransform: "uppercase"
         }}
       >
-        {/*  <Element name="about-me" id="about-me">
-                About Me
-            </Element> */}
+        {}
       </Typography>
       <div className="name">
         <img src={portfolio} alt="profile_photo" className="img" />
+
         <h1>Sam Ahalim</h1>
+       
         
         <div className="subtitle">
           <h3>I am a Full stack web developer. I give life to Code</h3>

@@ -30,8 +30,8 @@ export default function ProjectCard({ project }) {
 
   // This runs after render
   useEffect(() => {
-    updateDes(); // Update (trim) the description
-    window.addEventListener("resize", updateDes); // Update the des on resizing
+    updateDes(); 
+    window.addEventListener("resize", updateDes); 
     return () => window.removeEventListener("resize", updateDes); 
   });
 
