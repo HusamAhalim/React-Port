@@ -7,10 +7,13 @@
 
 
 
-*GitHub profile 
+*GitHub Repositorie: https://github.com/HusamAhalim/React-Port
 
 ## Available Scripts
 
-In the project directory, you can run:
+# Installation
+Run npm i.
 
-### `npm start`
+Run npm start.
+
+Visit localhost:3000.
